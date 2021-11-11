@@ -1,6 +1,6 @@
 ---
 
-- hosts: all
+- hosts: test
   become: true
   roles:
       - { role: geerlingguy.nginx }

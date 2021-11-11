@@ -1,2 +1,2 @@
 [test]
-nginx-test.valueline.io ansible_user=ubuntu
+nginx-test2.valueline.io ansible_user=ubuntu
